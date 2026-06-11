@@ -1,0 +1,49 @@
+# Environments
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+.npm/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.env
+
+node_modules/
+
+dist/
+build/
+
+.vscode/
+
+
+
+venv/
+.env
+__pycache__/
+*.pyc
